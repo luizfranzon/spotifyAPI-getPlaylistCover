@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    background-color: rgb(24, 24, 24);
+}
+
+h1 {
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    font-size: 3.5rem;
+    color: white;
+}
+
+.input-box {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+input {
+    font-size: 1rem;
+    width: 45rem;
+    text-align: center;
+    padding: .5rem;
+    border-radius: .8rem;
+    border: none;
+    
+}
+
+#help {
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+
+#getButton {
+    background-color: #1ed760;
+    border: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    padding: 1rem 3rem;
+    border-radius: 1rem;
+
+    cursor: pointer;
+}
+
+#playlist-name {
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
