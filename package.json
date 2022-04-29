@@ -1,0 +1,10 @@
+{
+  "name": "spotifyAPI-getAlbumCover",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luizfranzon/spotifyAPI-getAlbumCover.git",
+  "license": "MIT",
+  "dependencies": {
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
