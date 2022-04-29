@@ -1,6 +1,6 @@
 # Get Spotify Playlist Cover
 
-A webtool to get the playlist cover of a Spotify playlist.
+A webtool to get the cover of a Spotify playlist.
 Current don't work with albums.
 
 <p align="center"><img src="./media/example.png"></p>
