@@ -8,3 +8,5 @@ Current don't work with albums.
 ### Modules used
 - [spotify-web-api-node](https://www.npmjs.com/package/spotify-web-api-node)
 - [browserify](https://www.npmjs.com/package/browserify)
+
+
